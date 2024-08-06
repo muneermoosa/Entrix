@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Entrix/static/css/main.42f9d850.css",
+    "main.js": "/Entrix/static/js/main.f7765ea8.js",
+    "static/js/453.0214ccb8.chunk.js": "/Entrix/static/js/453.0214ccb8.chunk.js",
+    "static/media/tc.png": "/Entrix/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/Entrix/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/logo.png": "/Entrix/static/media/logo.8dc3548801bc1f4244a1.png",
+    "static/media/mm.jpg": "/Entrix/static/media/mm.428531b0a0fa2e5f1c95.jpg",
+    "static/media/footer.png": "/Entrix/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/sd.png": "/Entrix/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/dg.png": "/Entrix/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/Entrix/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/Entrix/index.html",
+    "main.42f9d850.css.map": "/Entrix/static/css/main.42f9d850.css.map",
+    "main.f7765ea8.js.map": "/Entrix/static/js/main.f7765ea8.js.map",
+    "453.0214ccb8.chunk.js.map": "/Entrix/static/js/453.0214ccb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f9d850.css",
+    "static/js/main.f7765ea8.js"
+  ]
+}
