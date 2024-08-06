@@ -19,7 +19,7 @@ function LayoutRoutes() {
         <Header/>
        <Routes>
 <Route path='/'element={<Home/>}/>
-<Route path='/Entrix_solution1'element={<Home/>}/>
+<Route path='/Entrix'element={<Home/>}/>
 <Route path='/services' element={<Plans/>}/>
 <Route path='/Courses'element={<Courses/>}/>
 <Route path='/Aboutus'element={<Aboutus/>}/>
